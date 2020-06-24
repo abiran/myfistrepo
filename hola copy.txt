@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Hola este es un archivo nuevo
-=======
 asndadnals;kdas
 dasd
 asd
@@ -12,4 +11,3 @@ a
 da
 ds
 as
->>>>>>> e0bcc4c... conflicto
